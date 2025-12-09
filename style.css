@@ -200,7 +200,7 @@ img{
 }
 
 /*MEDIA QUERIES*/
-
+/*Don't change the breakpoints*/
 /*Breakpoint 1000px*/
 @media only screen and (max-width: 992px){
 	section{
